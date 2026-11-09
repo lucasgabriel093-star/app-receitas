@@ -1,0 +1,42 @@
+export const receitasIniciais = [
+  {
+    id: 1,
+    nome: 'Panqueca de Banana',
+    categoria: 'Café da manhã',
+    tempo: 15,
+    ingredientes: ['2 bananas', '2 ovos', '4 colheres de aveia', 'Canela a gosto'],
+    preparo: 'Amasse as bananas, misture com os ovos e a aveia e doure em frigideira antiaderente.',
+  },
+  {
+    id: 2,
+    nome: 'Macarrão ao Alho e Óleo',
+    categoria: 'Almoço',
+    tempo: 20,
+    ingredientes: ['200 g de espaguete', '4 dentes de alho', 'Azeite', 'Salsinha'],
+    preparo: 'Cozinhe a massa. Doure o alho no azeite, junte o macarrão e finalize com salsinha.',
+  },
+  {
+    id: 3,
+    nome: 'Frango Grelhado com Legumes',
+    categoria: 'Almoço',
+    tempo: 30,
+    ingredientes: ['2 filés de frango', 'Abobrinha', 'Cenoura', 'Sal e pimenta'],
+    preparo: 'Tempere o frango e grelhe. Salteie os legumes cortados e sirva junto.',
+  },
+  {
+    id: 4,
+    nome: 'Brigadeiro',
+    categoria: 'Sobremesa',
+    tempo: 25,
+    ingredientes: ['1 lata de leite condensado', '3 colheres de chocolate em pó', '1 colher de manteiga'],
+    preparo: 'Cozinhe tudo em fogo baixo mexendo até desgrudar do fundo. Esfrie e enrole.',
+  },
+  {
+    id: 5,
+    nome: 'Mousse de Maracujá',
+    categoria: 'Sobremesa',
+    tempo: 10,
+    ingredientes: ['1 lata de leite condensado', '1 lata de creme de leite', 'Suco de 2 maracujás'],
+    preparo: 'Bata tudo no liquidificador e leve à geladeira por 2 horas.',
+  },
+];
