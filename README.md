@@ -1,7 +1,7 @@
 # App de Receitas
 
 ## Descrição
-Catálogo de receitas feito com React Native e Expo. Permite buscar receitas por nome, filtrar por categoria, ver os detalhes de cada uma e cadastrar novas receitas.
+Catálogo de receitas feito com snack.expo. Permite buscar receitas por nome, filtrar por categoria, ver os detalhes de cada uma e cadastrar novas receitas.
 
 ## Aluno
 LUCAS GABRIEL DE CASTRO SILVA RGM 4156924
