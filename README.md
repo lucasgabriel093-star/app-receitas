@@ -22,7 +22,7 @@ Dados locais (`data/receitas.js`).
 - Navegação com parâmetros: `Home` envia `{ receita }` para `Detalhes`, lido com `route.params`
 
 ## Vídeo de demonstração
-`demo/demo.mp4`
+'receitas - Snack - Google Chrome 2026-11-09 19-21-58.mp4'
 
 ## Como executar
 ```
